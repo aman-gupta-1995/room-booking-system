@@ -1,7 +1,7 @@
-RmBkingSys
+Room Booking System
 ==========
 
-RmBkingSys is used for booking rooms for different kinds of events. It has been created using php, Mysql and Bootstrap as a framework
+Room Booking System is used for booking rooms for different kinds of events. It has been created using php, Mysql and Bootstrap as a framework
 
 #Index
 ##Navigation Bar
@@ -81,7 +81,7 @@ RmBkingSys is used for booking rooms for different kinds of events. It has been 
 - Room Capacity
 - From - To(Dates)
 - Time
-- Price Range 
+- Price Range
 
 ##Main Column:
 - Search Results(Tables)
@@ -94,7 +94,7 @@ RmBkingSys is used for booking rooms for different kinds of events. It has been 
 - ON click expand that day
 
 ##Root user:
-- Add room 
+- Add room
 - Delete room
 - Cancel/Modify Reservation
 - Remove/Add User
