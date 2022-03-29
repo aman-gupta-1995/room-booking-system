@@ -8,7 +8,7 @@
 	$sql = "SELECT Rname, fdate, tdate FROM BkingDetail WHERE fdate<='$date' AND tdate>='$date'"; 
 	$result = $conn->query($sql); 
 ?>
-
+ 
 <!DOCTYPE html> 
     <html>
     <head>
