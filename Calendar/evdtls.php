@@ -3,7 +3,7 @@
 
 	connect();
 
-	$date = $_GET['year']."-".$_GET['month']."-".$_GET['day'];
+	$date = $_GET['year']."-".$_GET['month']."-".$_GET['day']; 
  
 	$sql = "SELECT Rname, fdate, tdate FROM BkingDetail WHERE fdate<='$date' AND tdate>='$date'"; 
 	$result = $conn->query($sql); 
