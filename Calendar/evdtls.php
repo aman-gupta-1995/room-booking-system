@@ -9,7 +9,7 @@
 	$result = $conn->query($sql); 
 ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
     <html>
     <head>
         <title>Template</title>
