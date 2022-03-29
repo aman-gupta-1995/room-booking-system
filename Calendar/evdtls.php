@@ -10,7 +10,7 @@
 ?>
  
 <!DOCTYPE html> 
-    <html>
+    <html> 
     <head>
         <title>Template</title>
         <meta charset="utf-8">
