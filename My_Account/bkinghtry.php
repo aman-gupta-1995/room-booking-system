@@ -5,7 +5,7 @@
   
 	$sql = "SELECT * FROM BkingDetail WHERE Uname = '".$_COOKIE['user']."'";
 	$result = $conn->query($sql); 
-?>
+?> 
 
 <!DOCTYPE html>
     <html>
