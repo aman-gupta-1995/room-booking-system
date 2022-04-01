@@ -29,7 +29,7 @@
                 <ul class = "nav navbar-nav">
                     <li><a href = "../index.php">Home</a></li>
                     <li><a href = "../reservation_form1.php">Reservation</a></li>
-                    <li><a href = "../brwsrm.php">Room Availability</a></li>
+                    <li><a href = "../brwsrm.php">Room Availability</a></li> 
                     <li><a href = "../upmingents.php">Upcoming Events</a></li>
                     <li><a href = "../index.php#cntctus">Contact</a></li>
                     <li><a href = "../index.php#faq">FAQ</a></li>
