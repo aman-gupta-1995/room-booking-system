@@ -6,7 +6,7 @@ hr.star-primary {
     border: 0; 
     border-top: solid 5px;  
     text-align: center; 
-}
+} 
 
 hr.star-light:after,
 hr.star-primary:after {
