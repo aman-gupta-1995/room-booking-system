@@ -5,7 +5,7 @@
   
 	$sql = "SELECT Room.Rname, Rtype, Rcapacity, Rdetails, Rprice, fdate, tdate FROM Room, BkingDetail WHERE Room.Rname = BkingDetail.Rname;";
 	$result = $conn->query($sql); 
-
+ 
 	$sql = "SELECT * FROM Room WHERE Rname NOT IN (SELECT Room.Rname FROM Room, BkingDetail WHERE Room.Rname = BkingDetail.Rname)";
 	$result1 = $conn->query($sql);
 ?>
