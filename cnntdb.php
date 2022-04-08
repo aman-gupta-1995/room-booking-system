@@ -3,7 +3,7 @@
 
     function connect()
     {  
-        global $conn;     
+        global $conn;      
         $servername = "localhost";   
         $username = "root";    
         $password = "getready4";  
