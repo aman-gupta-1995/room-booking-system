@@ -5,7 +5,7 @@
     {  
         global $conn;    
         $servername = "localhost";  
-        $username = "root"; 
+        $username = "root";  
         $password = "getready4";  
         $dbname = "MiniProject"; 
 
