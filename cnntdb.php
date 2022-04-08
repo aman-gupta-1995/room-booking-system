@@ -6,7 +6,7 @@
         global $conn; 
         $servername = "localhost"; 
         $username = "root"; 
-        $password = "getready4"; 
+        $password = "getready4";  
         $dbname = "MiniProject"; 
 
         $conn = new mysqli($servername, $username, $password, $dbname);
