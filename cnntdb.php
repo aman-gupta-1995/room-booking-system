@@ -4,7 +4,7 @@
     function connect()
     {  
         global $conn;    
-        $servername = "localhost";  
+        $servername = "localhost";   
         $username = "root";    
         $password = "getready4";  
         $dbname = "MiniProject"; 
