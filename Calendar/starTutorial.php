@@ -5,7 +5,7 @@ class Calendar {
      * Constructor
      */
     public function __construct(){     
-        $this->naviHref = htmlentities($_SERVER['PHP_SELF']);  
+        $this->naviHref = htmlentities($_SERVER['PHP_SELF']);   
     }
      
     /********************* PROPERTY ********************/  
