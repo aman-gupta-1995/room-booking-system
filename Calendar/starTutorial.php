@@ -6,7 +6,7 @@ class Calendar {
      */
     public function __construct(){     
         $this->naviHref = htmlentities($_SERVER['PHP_SELF']);   
-    }
+    } 
      
     /********************* PROPERTY ********************/  
     private $dayLabels = array("Mon","Tue","Wed","Thu","Fri","Sat","Sun");
