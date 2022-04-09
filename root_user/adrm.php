@@ -13,7 +13,7 @@ if(isset($_POST['submit'])) {
     $Rdetails = $_POST['room_details 
     $Rprice = $_POST['room_price'];
 
-    $sql = "INSERT INTO Room VALUES ('$Rname', '$Rtype', '$Rcapacity', '$Rdetails', $Rprice)";
+    $sql = "INSERT INTO Room VALUES ('$Rname', '$Rtype',  '$Rcapacity', '$Rdetails', $Rprice)";
     $result = $conn->query($sql);
 
     if ($result) {
