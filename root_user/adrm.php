@@ -6,7 +6,7 @@ if(isset($_POST['submit'])) {
     require_once '../cnntdb.php';
  
     connect();  
-
+ 
     $Rname = $_POST['room_name'];  
     $Rtype = $_POST['room_type'];
     $Rcapacity = $_POST['room_capacity'];
