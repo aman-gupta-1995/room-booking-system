@@ -26,7 +26,7 @@
                     </ul>
                     <ul class = "nav navbar-nav navbar-right"> 
                         <?php
-                        if (!isset( $_COOKIE['root_user'] )) {
+                        if (!isset( $_COOKIE['root_user'] )) { 
                             echo "<li>"
                                 ."<a href = \"root_user/rtloginform.php\">Admin Login</a></li>";
                         }
