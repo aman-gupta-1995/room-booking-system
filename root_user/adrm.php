@@ -3,7 +3,7 @@
 if(isset($_POST['submit'])) {
     $check = 1;
 
-    require_once '../cnntdb.php';
+    require_once '../cnntdb.php'; 
  
     connect();  
  
