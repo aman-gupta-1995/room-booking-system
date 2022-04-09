@@ -31,7 +31,7 @@ if(isset($_POST['submit'])) {
   <link rel="stylesheet" href="../dist/css/bootstrap.min.css">
 </head>
 
-<body>
+<body> 
 
     <!--Navigation Bar-->
     <nav class = "navbar navbar-default">
