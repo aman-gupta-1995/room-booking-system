@@ -7,7 +7,7 @@ if(isset($_POST['submit'])) {
 
     connect(); 
 
-    $Rname = $_POST['room_name'];
+    $Rname = $_POST['room_name']; 
     $Rtype = $_POST['room_type'];
     $Rcapacity = $_POST['room_capacity'];
     $Rdetails = $_POST['room_details'];
