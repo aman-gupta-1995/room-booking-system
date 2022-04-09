@@ -6,7 +6,7 @@
 
 	session_unset();  
 
-	session_destroy();
+	session_destroy(); 
 
     header("Location: $rootURL/index.php");
 ?>
