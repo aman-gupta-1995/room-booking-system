@@ -24,7 +24,7 @@
                         <li><a href = "index.php#faq">FAQ</a></li>
                         <li><a href = "index.php#about">About Us</a></li>
                     </ul>
-                    <ul class = "nav navbar-nav navbar-right">
+                    <ul class = "nav navbar-nav navbar-right"> 
                         <?php
                         if (!isset( $_COOKIE['root_user'] )) {
                             echo "<li>"
