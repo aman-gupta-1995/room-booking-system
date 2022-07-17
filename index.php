@@ -2,7 +2,7 @@
     require_once 'cnntdb.php'; 
   
     connect();   
-
+ 
     $sql = "SELECT Uname, Rname, fdate FROM BkingDetail WHERE tdate < '".date('Y-m-d')."' AND status = 'active'";
 
     if ( $result = $conn->query($sql) ) {
