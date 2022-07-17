@@ -59,7 +59,7 @@
                                             ."<li><a href=\"root_user/rtlogout.php\">Log Out</a></li>"
                                         ."</ul>"
                                     ."</li>";
-                    ?>
+                    ?> 
 
                     <?php
                         if (!isset( $_COOKIE['user'] )) {
