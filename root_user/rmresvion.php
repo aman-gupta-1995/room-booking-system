@@ -21,7 +21,7 @@ $result = $conn->query($sql);
 <body>
 
     <!--Navigation Bar-->
-    <nav class = "navbar navbar-default">
+    <nav class = "navbar navbar-default"> 
         <div class = "container-fluid">
             <div class = "navbar-header">
                 <a class = "navbar-brand" href="../index.php">RmBkingSys</a>
