@@ -6,7 +6,7 @@
            
     #To check whether user is logined or not   
     if (!isset($_COOKIE['user'])) {  
-        header("Location: $rootURL/loginform.php");  
+        header("Location: $rootURL/loginform.php");   
     }
 
     #To check whether the session is working or not
