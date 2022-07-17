@@ -2,7 +2,7 @@
 
 	session_start();
 
-	$_SESSION['Rname'] = $_GET['Rname'];
+	$_SESSION['Rname'] = $_GET['Rname']; 
 
     if ( !isset($_SESSION['f_date']) ) {
         require_once 'url.php';
