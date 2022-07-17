@@ -1,6 +1,6 @@
 <?php
 	require_once 'cnntdb.php'; 
-   
+    
 	connect();         
      
 	$sql = "SELECT Room.Rname, Rtype, Rcapacity, Rdetails, Rprice, fdate, tdate FROM Room, BkingDetail WHERE Room.Rname = BkingDetail.Rname;";
