@@ -11,7 +11,7 @@ Room Booking System is used for booking rooms for different kinds of events. It 
 - Room Availability
 - Upcoming Events 
 - Contact
-- FAQ
+- FAQ 
 - About Us
 
 ##Home:
