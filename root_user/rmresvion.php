@@ -3,7 +3,7 @@
 require_once '../cnntdb.php';
 
 connect();
-
+ 
 $sql = "SELECT * FROM BkingDetail WHERE Status = 'active'";
 
 $result = $conn->query($sql);
