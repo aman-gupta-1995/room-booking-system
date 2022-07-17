@@ -122,7 +122,7 @@
             </form>
         </div>
 
-        <div class = "container">
+        <div class = "container"> 
             <br><a href = "reservation_form1.php" class = "btn btn-default">Back</a>
             <a href = "index.php" class = "btn btn-default">Cancel</a>
         </div>
