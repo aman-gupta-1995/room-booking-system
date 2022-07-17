@@ -9,7 +9,7 @@ Room Booking System is used for booking rooms for different kinds of events. It 
 - Login / My Account 
 - Reservation 
 - Room Availability
-- Upcoming Events 
+- Upcoming Events  
 - Contact
 - FAQ  
 - About Us
