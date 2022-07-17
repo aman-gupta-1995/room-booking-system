@@ -7,7 +7,7 @@
     if ( !isset($_SESSION['f_date']) ) { 
         require_once 'url.php';     
         header("Location: $rootURL/index.php");
-    }
+    } 
 
     require_once 'cnntdb.php';
 
