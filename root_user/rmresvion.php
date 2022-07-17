@@ -6,7 +6,7 @@ connect();
  
 $sql = "SELECT * FROM BkingDetail WHERE Status = 'active'";
 
-$result = $conn->query($sql); 
+$result = $conn->query($sql);  
 ?>
 
 <!DOCTYPE html>
