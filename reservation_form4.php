@@ -2,7 +2,7 @@
 
     require_once 'url.php';
 
-    session_start();
+    session_start(); 
         
     #To check whether user is logined or not
     if (!isset($_COOKIE['user'])) {
