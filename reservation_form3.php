@@ -31,7 +31,7 @@
     <!--Navigation Bar-->
     <nav class = "navbar navbar-default">
         <div class = "container-fluid">
-            <div class = "navbar-header">
+            <div class = "navbar-header"> 
                 <a class = "navbar-brand" href="index.php">RmBkingSys</a>
             </div>
             <div>
