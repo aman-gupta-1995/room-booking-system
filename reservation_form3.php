@@ -85,7 +85,7 @@
     <!--Page Content-->
 
     <div class = "container">
-    <?php   
+    <?php    
     if ($result->num_rows > 0) {
         while ($row = $result->fetch_assoc()) {
             echo "<h1>Room Details</h1><p>".$row['Rdetails']."</p>";
