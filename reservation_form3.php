@@ -4,7 +4,7 @@
 
 	$_SESSION['Rname'] = $_GET['Rname']; 
  
-    if ( !isset($_SESSION['f_date']) ) { 
+    if ( !isset($_SESSION['f_date']) ) {  
         require_once 'url.php';      
         header("Location: $rootURL/index.php");
     } 
