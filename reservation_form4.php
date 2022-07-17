@@ -5,7 +5,7 @@
     session_start();  
            
     #To check whether user is logined or not   
-    if (!isset($_COOKIE['user'])) { 
+    if (!isset($_COOKIE['user'])) {  
         header("Location: $rootURL/loginform.php"); 
     }
 
