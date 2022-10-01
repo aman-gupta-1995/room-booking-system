@@ -1,7 +1,7 @@
 <?php
     if ( isset($_POST['submit']) ) {
         require_once '../cnntdb.php';
-        require_once("../url.php");
+        require_once("../url.php"); 
 
         connect();
 
