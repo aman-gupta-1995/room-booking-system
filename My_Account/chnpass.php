@@ -4,7 +4,7 @@
 	    
     if ( isset($_POST['submit']) ) {    
 		     
-		require_once("../url.php");          
+		require_once("../url.php");           
  
 		if( $_POST['npassword'] == $_POST['cnpassword'] ) {
 			require_once '../cnntdb.php';
