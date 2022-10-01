@@ -28,7 +28,7 @@
 	}
 ?>
  
-<!DOCTYPE html> 
+<!DOCTYPE html>  
 <html>
 <head>
   <title>Template</title>
