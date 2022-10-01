@@ -2,7 +2,7 @@
 
 	require_once 'url.php';
 
-	session_start();
+	session_start(); 
  
 	session_unset();  
   
