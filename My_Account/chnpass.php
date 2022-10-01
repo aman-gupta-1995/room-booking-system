@@ -1,6 +1,6 @@
 <?php
 
-    $check = 1;
+    $check = 1; 
 	    
     if ( isset($_POST['submit']) ) {     
 		     
