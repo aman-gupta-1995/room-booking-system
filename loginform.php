@@ -5,7 +5,7 @@ $check = 1;
 if ( isset($_COOKIE['user']) ) {  
     require_once("url.php");  
     header("Location: $rootURL/index.php"); 
-} 
+}  
 
 if ( isset($_POST['login']) ) {
 
