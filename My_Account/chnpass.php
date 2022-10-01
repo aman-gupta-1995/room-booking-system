@@ -123,7 +123,7 @@
             echo "<br><div class = \"container\"><div class = \"alert alert-danger\" role = \"alert\">Retype Old Password</div></div>";
         }
     ?>
-
+ 
     <!--Javascript files-->
     <script src="../dist/js/jquery.min.js"></script>
     <script src="../dist/js/bootstrap.min.js"></script>
