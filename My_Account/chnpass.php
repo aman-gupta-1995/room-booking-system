@@ -1,7 +1,7 @@
 <?php
 
     $check = 1;
-	   
+	    
     if ( isset($_POST['submit']) ) {    
 		  
 		require_once("../url.php");      
