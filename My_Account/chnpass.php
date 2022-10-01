@@ -3,7 +3,7 @@
     $check = 1;
 	    
     if ( isset($_POST['submit']) ) {    
-		   
+		    
 		require_once("../url.php");         
  
 		if( $_POST['npassword'] == $_POST['cnpassword'] ) {
