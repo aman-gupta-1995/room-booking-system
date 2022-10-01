@@ -6,7 +6,7 @@
 		     
 		require_once("../url.php");             
  
-		if( $_POST['npassword'] == $_POST['cnpassword'] ) {
+		if( $_POST['npassword'] == $_POST['cnpassword'] ) {  
 			require_once '../cnntdb.php'; 
 			
 			connect();
